@@ -10,7 +10,7 @@ function Header (){
             <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
             <a  href='#Inicio' class="mr-5 hover:text-[#0D3B66]">Inicio</a>
             <a href='#Nosotros' class="mr-5 hover:text-[#0D3B66]">Nosotros</a>
-            <a class="mr-5 hover:text-[#0D3B66]">Servicio</a>
+            <a class="mr-5 hover:text-[#0D3B66]">Servicios</a>
             </nav>
             <button class="inline-flex items-center border-2 border-[#0D3B66] py-1 px-8 focus:outline-none hover:bg-gray-200 rounded-full text-base mt-4 md:mt-0 mr-1">Registrar hotel</button>
             <button class="inline-flex items-center border-2 border-[#0D3B66] py-1 px-8 focus:outline-none hover:bg-gray-200 rounded-full text-base mt-4 md:mt-0 mr-1">Registrate</button>
